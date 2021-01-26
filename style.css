@@ -132,7 +132,7 @@ header{
 
 /*Hero-second section*/  
 .hero-second{
-    background-image: url("images/hero/Second/lamp_large.png");
+    background-image: url("images/hero/Second/Lamp_large.png");
 }
 
 .title-dark{
@@ -811,4 +811,3 @@ header{
         background-color: rgba(136, 136, 136, 0.301);
     }
 }
-
