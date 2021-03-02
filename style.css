@@ -388,24 +388,8 @@ header{
     transform: scale(0.6);
 }
 
-/*Moved to the bottom of all section styles to keep consistent styles*/
-.hero{
-    height: 69.2rem;
-    background-size: auto 73.6rem;
-    background-position: center;
-    background-repeat: no-repeat;
-    border-top: 0.6rem solid #fff;
-    border-bottom: 0.6rem solid #fff;
-}
+/*footer section*/ 
 
-.hero-main{
-    border-top: none;
-}
-
-body {
-	margin: 0;
-	padding: 0;
-}
 footer{
 	position: fixed;
 	bottom: 0;
@@ -546,6 +530,21 @@ footer{
 	margin-right: 3px;
 	margin-bottom: 5px;
 }
+
+/*Moved to the bottom of all section styles to keep consistent styles*/
+.hero{
+    height: 69.2rem;
+    background-size: auto 73.6rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: 0.6rem solid #fff;
+    border-bottom: 0.6rem solid #fff;
+}
+
+.hero-main{
+    border-top: none;
+}
+
 
 /*end*/
 
