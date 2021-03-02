@@ -391,7 +391,7 @@ header{
 /*footer section*/ 
 
 footer{
-	position: relative;
+/* 	position: relative; */
 	bottom: 0;
 }
 .footer-distributed{
