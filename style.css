@@ -510,11 +510,11 @@ footer{
 	margin-bottom: 20px;
 }
  
-.footer-distributed .footer-icons{
+/* .footer-distributed .footer-icons{
 	margin-top: 25px;
-}
+} */
  
-.footer-distributed .footer-icons a{
+/* .footer-distributed .footer-icons a{
 	display: inline-block;
 	width: 35px;
 	height: 35px;
@@ -529,7 +529,7 @@ footer{
  
 	margin-right: 3px;
 	margin-bottom: 5px;
-}
+} */
 
 /*Moved to the bottom of all section styles to keep consistent styles*/
 .hero{
