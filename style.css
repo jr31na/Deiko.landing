@@ -253,13 +253,6 @@ header{
     background: url("images/hero/fourth/fourth_large.png");
 }
 
-.title-heading-fourth{
-    position: relative;
-    height: 6.2rem;
-    background-image: url("images/hero/third/title_large.png") center no-repeat;
-    background-size: auto 6.2rem;
-}
-
 /*fifth section*/ 
 .fifth{
     position: relative;
