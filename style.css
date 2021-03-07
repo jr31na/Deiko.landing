@@ -249,9 +249,16 @@ header{
 }
 
 /*hero-fourth section*/ 
-/* .hero-fourth{
-    background: url("images/hero/fourth/fourth_large.png");
-} */
+.fourth{
+    position: relative;
+    min-height: 80vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #d2e2f2;
+    transform: 0.5s;
+}
 
 /*fifth section*/ 
 .fifth{
