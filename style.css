@@ -877,6 +877,10 @@ footer{
 }
 
 @media (max-width: 991px){
+    .fourth{
+        padding: 40px;
+        padding-bottom: 140px;     
+    }
     .fifth{
         padding: 40px;
         padding-bottom: 140px;     
